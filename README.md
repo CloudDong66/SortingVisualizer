@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Sorting Algorithms Visualizer
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a React.js App that visualize sorting algorithms including merge sort, quick sort, heap sort, bubble sort, insertion sort, and selection sort. The live web link is: https://polar-dusk-62222.herokuapp.com/
 
 ## Available Scripts
 
