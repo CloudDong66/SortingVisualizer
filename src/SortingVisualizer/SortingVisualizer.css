@@ -1,0 +1,56 @@
+.array-container {
+    position: absolute;
+    left: 20px;
+    width: 100%;
+    /* bottom: 20px; */
+    /* top: 200px; */
+    
+}
+
+.array-bar {
+    width: 4px;
+    background-color: pink;
+    display: inline-block;
+    margin: 0 1px;
+}
+
+
+.btn-children {
+  margin-right: 10px;
+  border: 1px solid #3498db;
+  background: none;
+  padding: 8px 15px;
+  font-size: 12px;
+  cursor: pointer;
+  margin: 5px;
+  transition: 0.8s;
+}
+
+.btnGen {
+  color: #3498db;
+}
+
+.btnGen:hover {
+  color: pink;
+}
+
+.btnSort {
+  color: purple;
+}
+
+.btnSort:hover {
+  color: pink;
+}
+
+.btnSet {
+  color: pink;
+}
+
+.btnSet:hover {
+  color: white;
+}
+
+.nav-bar {
+  background-color: #034e73;
+  margin-bottom: 20px;
+}
